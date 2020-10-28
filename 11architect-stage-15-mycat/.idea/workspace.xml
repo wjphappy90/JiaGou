@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="751caed8-f0e7-4639-88f1-31d33205d2b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua/HelloWorld.lua" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/lua/HelloWorld.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua/ratelimiter.lua" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/lua/ratelimiter.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua/安装Lua（可选）" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/lua/安装Lua（可选）" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/java/com/example/mycatdemo/MycatDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/java/com/example/mycatdemo/dao/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/java/com/example/mycatdemo/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/java/com/example/mycatdemo/model/UserExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/java/com/example/mycatdemo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/main/resources/mybatis/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat-demo/src/test/java/com/example/mycatdemo/MycatDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat配置文件/schema.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycat配置文件/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate-limiter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/rate-limiter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate-limiter/rate-limiter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/rate-limiter/rate-limiter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate-limiter/src/main/java/com/imooc/springcloud/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/rate-limiter/src/main/java/com/imooc/springcloud/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate-limiter/src/main/java/com/imooc/springcloud/RateLimiterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/rate-limiter/src/main/java/com/imooc/springcloud/RateLimiterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate-limiter/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/rate-limiter/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate-limiter/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/rate-limiter/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate-limiter/src/main/resources/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/rate-limiter/src/main/resources/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-annotation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-annotation/ratelimiter-annotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-annotation/src/main/java/com/imooc/springcloud/AccessLimiter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-annotation/src/main/java/com/imooc/springcloud/RedisConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-annotation/src/main/java/com/imooc/springcloud/annotation/AccessLimiter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-annotation/src/main/java/com/imooc/springcloud/annotation/AccessLimiterAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-annotation/src/main/resources/ratelimiter.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/ratelimiter-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-test/ratelimiter-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/ratelimiter-test/ratelimiter-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-test/src/main/java/com/imooc/springcloud/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/ratelimiter-test/src/main/java/com/imooc/springcloud/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-test/src/main/java/com/imooc/springcloud/RatelimiterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/ratelimiter-test/src/main/java/com/imooc/springcloud/RatelimiterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-test/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/ratelimiter-test/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratelimiter-test/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/分布式限流/ratelimiter-test/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/ShardingJdbcDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/dao/AreaMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/dao/OrderItemMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/dao/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/model/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/model/AreaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/model/OrderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/model/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/model/OrderItemExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/java/com/example/shardingjdbcdemo/sharding/MySharding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/resources/mybatis/AreaMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/resources/mybatis/OrderItemMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/resources/mybatis/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/main/resources/sharding-jdbc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-demo/src/test/java/com/example/shardingjdbcdemo/ShardingJdbcDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/TccDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/config/ConfigDb131.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/config/ConfigDb132.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/config/RocketMQConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/config/ZkConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/consumer/ChangeOrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/controller/PaymentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/dao/AccountAMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/dao/PaymentMsgMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/dao/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/model/AccountA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/model/AccountAExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/model/PaymentMsg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/model/PaymentMsgExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db131/model/UserExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db132/dao/AccountBMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db132/dao/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db132/model/AccountB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db132/model/AccountBExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db132/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/db132/model/OrderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/service/OrderScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/service/PaymentServcie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/java/com/example/tccdemo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/mybatis/db131/AccountAMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/mybatis/db131/PaymentMsgMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/mybatis/db131/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/mybatis/db132/AccountBMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/mybatis/db132/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/templates/user/user-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/main/resources/templates/user/user-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc-demo/src/test/java/com/example/tccdemo/TccDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/git" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/XaDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/config/ConfigDb131.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/config/ConfigDb132.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/db131/dao/XA131Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/db131/model/XA131.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/db131/model/XA131Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/db132/dao/XA132Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/db132/model/XA132.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/db132/model/XA132Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/java/com/example/xademo/service/XAService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/resources/mybatis/db131/XA131Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/main/resources/mybatis/db132/XA132Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/src/test/java/com/example/xademo/XaDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/tmlog.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-demo/tmlog1.log" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/rate-limiter/target/" />
+    <ignored path="$PROJECT_DIR$/ratelimiter-annotation/target/" />
+    <ignored path="$PROJECT_DIR$/ratelimiter-test/target/" />
+    <ignored path="$PROJECT_DIR$/foodie-dev/foodie-dev-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/foodie-dev/foodie-dev-service/target/" />
+    <ignored path="$PROJECT_DIR$/foodie-dev/foodie-dev-api/target/" />
+    <ignored path="$PROJECT_DIR$/foodie-dev/foodie-dev-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/foodie-dev/target/" />
+    <ignored path="$PROJECT_DIR$/foodie-dev/foodie-dev-common/target/" />
+    <ignored path="$PROJECT_DIR$/xa-demo/target/" />
+    <ignored path="$PROJECT_DIR$/tcc-demo/target/" />
+    <ignored path="$PROJECT_DIR$/sharding-jdbc-demo/target/" />
+    <ignored path="$PROJECT_DIR$/分布式限流/rate-limiter/target/" />
+    <ignored path="$PROJECT_DIR$/分布式限流/ratelimiter-test/target/" />
+    <ignored path="$PROJECT_DIR$/分布式事务/tcc-demo/target/" />
+    <ignored path="$PROJECT_DIR$/分布式事务/xa-demo/target/" />
+    <ignored path="$PROJECT_DIR$/分库分表/mycat-demo/target/" />
+    <ignored path="$PROJECT_DIR$/分库分表/sharding-jdbc-demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/分布式限流/ratelimiter-test/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foodie-dev/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/分布式事务/tcc-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/分布式事务/xa-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/分库分表/mycat-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/分库分表/sharding-jdbc-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="365" />
+    <option name="y" value="114" />
+    <option name="width" value="1194" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ratelimiter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ratelimiter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\架构师课程源码\Architect-Spring-Cloud-Demo-master\architect-spring-cloud-demo\ratelimiter\分布式限流" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="751caed8-f0e7-4639-88f1-31d33205d2b4" name="Default Changelist" comment="" />
+      <created>1586399772327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586399772327</updated>
+      <workItem from="1586399773528" duration="2256000" />
+    </task>
+    <task id="LOCAL-00001" summary="分布式限流源码">
+      <created>1586399836405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586399836405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="分布式限流源码">
+      <created>1586399936524</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586399936524</updated>
+    </task>
+    <task id="LOCAL-00003" summary="分布式限流源码">
+      <created>1586400776435</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586400776435</updated>
+    </task>
+    <task id="LOCAL-00004" summary="好好敲代码">
+      <created>1586401648069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586401648069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2256000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="652" y="118" width="1194" height="798" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43386245" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.72866523" weight="0.30225563" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.2713348" side_tool="true" weight="0.47003156" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.6794311" visible="true" weight="0.33834586" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989059" weight="0.329653" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Word Book" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分布式限流源码" />
+    <MESSAGE value="好好敲代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="好好敲代码" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ratelimiter.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分布式限流/rate-limiter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ratelimiter-annotation/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分布式限流/lua/安装Lua（可选）">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分布式限流/ratelimiter-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xa-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodie-dev/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分布式事务/tcc-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分布式事务/xa-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分库分表/mycat-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分库分表/sharding-jdbc-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

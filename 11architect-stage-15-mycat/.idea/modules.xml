@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foodie-dev/foodie-dev.iml" filepath="$PROJECT_DIR$/foodie-dev/foodie-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodie-dev/foodie-dev-api/foodie-dev-api.iml" filepath="$PROJECT_DIR$/foodie-dev/foodie-dev-api/foodie-dev-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodie-dev/foodie-dev-common/foodie-dev-common.iml" filepath="$PROJECT_DIR$/foodie-dev/foodie-dev-common/foodie-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodie-dev/foodie-dev-mapper/foodie-dev-mapper.iml" filepath="$PROJECT_DIR$/foodie-dev/foodie-dev-mapper/foodie-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodie-dev/foodie-dev-pojo/foodie-dev-pojo.iml" filepath="$PROJECT_DIR$/foodie-dev/foodie-dev-pojo/foodie-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodie-dev/foodie-dev-service/foodie-dev-service.iml" filepath="$PROJECT_DIR$/foodie-dev/foodie-dev-service/foodie-dev-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分库分表/mycat-demo/mycat-demo.iml" filepath="$PROJECT_DIR$/分库分表/mycat-demo/mycat-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式限流/rate-limiter/rate-limiter.iml" filepath="$PROJECT_DIR$/分布式限流/rate-limiter/rate-limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ratelimiter.iml" filepath="$PROJECT_DIR$/.idea/ratelimiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式限流/ratelimiter-annotation/ratelimiter-annotation.iml" filepath="$PROJECT_DIR$/分布式限流/ratelimiter-annotation/ratelimiter-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式限流/ratelimiter-test/ratelimiter-test.iml" filepath="$PROJECT_DIR$/分布式限流/ratelimiter-test/ratelimiter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分库分表/sharding-jdbc-demo/sharding-jdbc-demo.iml" filepath="$PROJECT_DIR$/分库分表/sharding-jdbc-demo/sharding-jdbc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式事务/tcc-demo/tcc-demo.iml" filepath="$PROJECT_DIR$/分布式事务/tcc-demo/tcc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分布式事务/xa-demo/xa-demo.iml" filepath="$PROJECT_DIR$/分布式事务/xa-demo/xa-demo.iml" />
+    </modules>
+  </component>
+</project>

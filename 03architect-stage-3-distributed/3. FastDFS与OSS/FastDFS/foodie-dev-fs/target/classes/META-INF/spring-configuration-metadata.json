@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.imooc.resourse.FileResource",
+      "sourceType": "com.imooc.resourse.FileResource"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.resourse.FileResource"
+    },
+    {
+      "name": "file.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.resourse.FileResource"
+    },
+    {
+      "name": "file.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.resourse.FileResource"
+    },
+    {
+      "name": "file.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.resourse.FileResource"
+    },
+    {
+      "name": "file.host",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.resourse.FileResource"
+    },
+    {
+      "name": "file.object-name",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.resourse.FileResource"
+    },
+    {
+      "name": "file.oss-host",
+      "type": "java.lang.String",
+      "sourceType": "com.imooc.resourse.FileResource"
+    }
+  ],
+  "hints": []
+}

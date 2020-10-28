@@ -1,0 +1,11 @@
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/service/impl/ItemsServiceImpl.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/controller/ItemsController.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/Application.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/service/StuESService.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/es/pojo/StuVO.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/controller/HelloController.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/ESConfig.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/es/pojo/Items.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/es/pojo/Stu.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/service/ItemsESService.java
+/workspaces/idea_lee/foodie/foodie-search/src/main/java/com/imooc/CorsConfig.java

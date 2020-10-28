@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="foodie-dev-api" />
+        <module name="foodie-dev-service" />
+        <module name="foodie-dev-common" />
+        <module name="foodie-dev-pojo" />
+        <module name="tcc-demo" />
+        <module name="rate-limiter" />
+        <module name="foodie-dev-mapper" />
+        <module name="ratelimiter-test" />
+        <module name="sharding-jdbc-demo" />
+        <module name="xa-demo" />
+        <module name="ratelimiter-annotation" />
+        <module name="mycat-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="foodie-dev" target="1.8" />
+      <module name="foodie-dev-api" target="1.8" />
+      <module name="foodie-dev-common" target="1.8" />
+      <module name="foodie-dev-mapper" target="1.8" />
+      <module name="foodie-dev-pojo" target="1.8" />
+      <module name="foodie-dev-service" target="1.8" />
+      <module name="mycat-demo" target="1.8" />
+      <module name="rate-limiter" target="1.8" />
+      <module name="ratelimiter-annotation" target="1.5" />
+      <module name="ratelimiter-test" target="1.8" />
+      <module name="sharding-jdbc-demo" target="1.8" />
+      <module name="tcc-demo" target="1.8" />
+      <module name="xa-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="foodie-dev-api" options="-parameters" />
+      <module name="foodie-dev-common" options="-parameters" />
+      <module name="foodie-dev-mapper" options="-parameters" />
+      <module name="foodie-dev-pojo" options="-parameters" />
+      <module name="foodie-dev-service" options="-parameters" />
+      <module name="mycat-demo" options="-parameters" />
+      <module name="sharding-jdbc-demo" options="-parameters" />
+      <module name="tcc-demo" options="-parameters" />
+      <module name="xa-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

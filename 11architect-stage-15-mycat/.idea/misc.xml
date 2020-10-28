@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rate-limiter/pom.xml" />
+        <option value="$PROJECT_DIR$/ratelimiter-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/ratelimiter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/foodie-dev/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/tcc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/xa-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式事务/tcc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式事务/xa-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/分库分表/mycat-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/分库分表/sharding-jdbc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式限流/rate-limiter/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式限流/ratelimiter-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/分布式限流/ratelimiter-test/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
